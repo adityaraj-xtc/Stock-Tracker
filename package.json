@@ -1,0 +1,14 @@
+{
+  "name": "ReactTrader",
+  "version": "1.0.0",
+  "description": "Trader Desktop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Raj <write.aditya28@gmail.com>",
+  "dependencies": {
+    "express": "^4.12.3",
+    "socket.io": "^1.3.5"
+  }
+}
